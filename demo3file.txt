@@ -1,0 +1,3 @@
+Hello, this is gettihg amended for master branch
+
+ Adding for the confliction NewBranch
